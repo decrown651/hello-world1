@@ -1,2 +1,6 @@
 # hello-world1
-my first repository
+
+Hello!
+
+deleke here, following the github tutorial.
+
